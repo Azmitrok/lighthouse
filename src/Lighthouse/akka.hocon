@@ -1,5 +1,5 @@
 lighthouse{
-  actorsystem: "actor-system" #POPULATE NAME OF YOUR ACTOR SYSTEM HERE
+  actorsystem: "webcrawler" #change from "lighthouse" to "webcrawler"
 }
 
 # See petabridge.cmd configuration options here: https://cmd.petabridge.com/articles/install/host-configuration.html
